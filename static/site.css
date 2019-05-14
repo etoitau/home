@@ -17,7 +17,7 @@
 
 .yellowstripe {
     background-color: #FED768;
-    background-image: "static/halftone-yellow.png";
+    background-image: url("halftone-yellow.png");
     color: Black;
     font-family: "Courier New", "Courier", monospace;
     font-size: 1.2em;
@@ -25,7 +25,7 @@
 
 .bg {
     background-color: #FED768;
-    background-image: "static/halftone-yellow.png";
+    background-image: url("halftone-yellow.png");
 }
 
 a, a:hover {
@@ -34,7 +34,7 @@ a, a:hover {
 }
 
 body {
-    background-image: "static/topography.png";
+    background-image: url("topography.png");
     background-color: #F2F2F2;
     color: Black;
     font-family: "Courier New", "Courier", monospace;
