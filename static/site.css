@@ -19,7 +19,7 @@
     background-color: #FED768;
     background-image: url("halftone-yellow.png");
     color: Black;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: Verdana, Geneva, sans-serif;
     font-size: 1.2em;
 }
 
@@ -37,7 +37,7 @@ body {
     background-image: url("topography.png");
     background-color: #F2F2F2;
     color: Black;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: Verdana, Geneva, sans-serif;
     padding-bottom: 75px;
 }
 
