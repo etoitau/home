@@ -1,0 +1,82 @@
+K Y L E
+C H A T M A N
+
+S O F T W A R E
+E N G I N E E R
+
+CONTACT
+cs.kchatman.com
+kchatman@gmail
+linkedin.com/in/
+    kchatman
+github.com/etoitau
+415-601-4080
+Oakland, CA
+
+KEYWORD DUMP
+Java, Python, Kotlin, Javascript, C, HTML, CSS, SCSS, Git, Intillij, Android Studio, Android, Django, Flask, Jinja2, SQL, SQLite, PosgreSQL, Web, algorithms, data structures, Object Oriented Programming OOP, Object Relational mapping ORM
+
+Seeking Software Engineer Position
+
+Introduction
+Kyle Chatman is an entry-level software engineer with 12 years  professional experience in engineering projects, as described on the next page. He's adaptable, versatile, resourceful, efficient, and looking for problems to solve.
+
+Education
+Self-guided full-time study - March 2019 - Present
+See cs.kchatman.com for details, including selected projects with source code, video demos, and live apps. Including those below.
+Learning Projects:
+* GifTessera - Android app for creating simple animations and animated gifs. Live on Google Play. Written in Kotlin.
+* Racetrack - Downloadable (jar) implementation of the classic pencil and paper game with an AI solver. Written in Java.
+* Dragon Curve Maker - Live web app for exploring this class of fractals. Uses Python, JavaScript, HTML, CSS, SQL.
+* The RPSer - Live web app that tries to learn to beat you at rock, paper, scissors. Python, JavaScript, HTML, CSS, SQL.
+Courses:
+* Design Patterns in Java (Udemy)
+* The Complete Android Oreo Developer Course (Udemy)
+* Data Structures (UCSD - Coursera)
+* Algorithms (UCSD - Coursera)
+* Programming with Java II (University of Helsinki - mooc.fi)
+* CodeGym Level 11
+* CS50W - Web Programming with Python and JavaScript   (Harvard - edX)
+* CS50 - Introduction to Computer Science (Harvard - edX)
+College:
+* Master of Science in Structural Engineering and Geomechanics - Stanford University
+* Bachelor of Science in Civil and Environmental Engineering - University of California, Berkeley
+
+Experience
+Much of Kyle's experience in his previous career as a Structural         Engineer will be useful in any work centered on engineering         projects. His past work required strong communication skills with team members in a wide variety of fields (Architects, Engineers, Contractors, etc.). He consistently brought major projects to successful conclusion as Project Manager, team member, or solo engineer. He showed himself to be an efficient and effective designer of solutions for problems large and small and routinely managed several projects at once without issue.
+	
+KEYWORD DUMP
+seismic evaluation, retrofit, renovation, strengthening, new construction, TIC, means & methods, multi-family, public, hospital, high-rise, religious, remodel,  residential, historic, commercial, steel,      concrete, wood,  micropiles, precast, PT concrete, FRP, URM, light-gauge, nonlinear analysis, code development,  Revit, SAP 2000, ETABS, Bluebeam, RISA 3D, RAM Concept, ASCE 41, BIM, critical path, performance-based design,  fast-track,      project management
+
+Past Career - Structural Engineer
+
+Introduction
+In his past career, Kyle had about twelve years experience analyzing, designing and managing the design of structural systems for buildings at OLMM Consulting Engineers and Degenkolb Engineers.
+
+Sample Projects
+Out of 50+ projects, below are a sample in reverse chronological order.
+
+Paseo and Vista Estero - Brooklyn Basin, Oakland
+Affordable housing project for families and seniors. 211 units. Over 300k sqft. Four stories of wood-framed structure over two story prestressed concrete podium over thick slab on distributed precast prestressed pile foundation.
+Leader of structural team over several engineers and building information modeling (BIM) technicians.
+
+The Mexican Museum and Four Seasons Private Residences - SF 
+New 45 story high rise added to existing 116-year-old ten story office building. Bottom four stories converted to museum space.
+Investigation and evaluation. Significant alteration to existing structure. Stabilization of historic fabric. Seismic strengthening.   
+Leader of OLMM structural team, partnered with MKA team.
+
+Westbrook Apartments - Hunter's Point, SF        
+Existing site with 37 apartment buildings, 226 units of affordable housing, over 250k sqft. Probable maximum loss evaluation. Unit and site renovations.
+Sole structural engineer for the project.
+
+Natalie Gubb Commons - SF
+Two eight-story and one four-story buildings. 120 units of affordable housing. Utilizes novel steel structural system maximizing prefabrication and minimizing foundation costs.
+Leader of structural team in final phase of design and through construction.
+
+Solaire Apartments / Beale Street Affordable Housing - SF
+32 story tower, 8-story mid-rise, seven 3-story townhomes. 402 market-rate and 70 affordable housing apartments with parking below.
+Leader of OLMM structural team, partnered with MKA team. 
+
+Ogden Utah Temple and Tabernacle  - Ogden, Utah
+Major remodel and seismic strengthening of significant LDS temple. 115k sqft. Evaluation and seismic strengthening of neighboring tabernacle.
+Leader of Degenkolb team and provided oversight of partner local firm.
