@@ -13,8 +13,10 @@ github.com/etoitau
 415-601-4080
 Oakland, CA
 
+
 KEYWORD DUMP
-Java, Python, Kotlin, Javascript, C, HTML, CSS, SCSS, Git, Intillij, Android Studio, Android, Django, Flask, Jinja2, SQL, SQLite, PosgreSQL, Web, algorithms, data structures, Object Oriented Programming OOP, Object Relational mapping ORM
+Java, Python, Kotlin, Javascript, C, HTML, CSS, SCSS, Git, Intillij, Android Studio, Android, Spring Boot, Thymeleaf, Java Persistence API (JPA), Hibernate, REpresentational State Transfer (REST), Django, Flask, Jinja2, SQL, SQLite, PosgreSQL, Web, algorithms, data structures, Object Oriented Programming (OOP), Object Relational mapping (ORM)
+
 
 Seeking Software Engineer Position
 
@@ -23,7 +25,7 @@ Kyle Chatman is an entry-level software engineer with 12 years  professional exp
 
 Education
 Self-guided full-time study - March 2019 - Present
-See cs.kchatman.com for details, including selected projects with source code, video demos, and live apps. Including those below.
+See cs.kchatman.com for details, including projects with source code, video demos, and live apps. Below are some examples.
 Learning Projects:
 * GifTessera - Android app for creating simple animations and animated gifs. Live on Google Play. Written in Kotlin.
 * Racetrack - Downloadable (jar) implementation of the classic pencil and paper game with an AI solver. Written in Java.
@@ -43,12 +45,13 @@ College:
 * Bachelor of Science in Civil and Environmental Engineering - University of California, Berkeley
 
 Experience
-Much of Kyle's experience in his previous career as a Structural         Engineer will be useful in any work centered on engineering         projects. His past work required strong communication skills with team members in a wide variety of fields (Architects, Engineers, Contractors, etc.). He consistently brought major projects to successful conclusion as Project Manager, team member, or solo engineer. He showed himself to be an efficient and effective designer of solutions for problems large and small and routinely managed several projects at once without issue.
+Much of Kyle's experience in his previous career as a Structural Engineer will be useful in any work centered on engineering projects. His past work required strong communication skills with team members in a wide variety of fields (Architects, Engineers, Contractors, etc.). He consistently brought major projects to successful conclusion as Project Manager, team member, or solo engineer. He showed himself to be an efficient and effective designer of solutions for problems large and small and routinely managed several projects at once without issue.
 	
-KEYWORD DUMP
-seismic evaluation, retrofit, renovation, strengthening, new construction, TIC, means & methods, multi-family, public, hospital, high-rise, religious, remodel,  residential, historic, commercial, steel,      concrete, wood,  micropiles, precast, PT concrete, FRP, URM, light-gauge, nonlinear analysis, code development,  Revit, SAP 2000, ETABS, Bluebeam, RISA 3D, RAM Concept, ASCE 41, BIM, critical path, performance-based design,  fast-track,      project management
 
 Past Career - Structural Engineer
+
+KEYWORD DUMP
+seismic evaluation, retrofit, renovation, strengthening, new construction, TIC, means & methods, multi-family, public, hospital, high-rise, religious, remodel,  residential, historic, commercial, steel,      concrete, wood,  micropiles, precast, PT concrete, FRP, URM, light-gauge, nonlinear analysis, code development,  Revit, SAP 2000, ETABS, Bluebeam, RISA 3D, RAM Concept, ASCE 41, BIM, critical path, performance-based design,  fast-track,      project management
 
 Introduction
 In his past career, Kyle had about twelve years experience analyzing, designing and managing the design of structural systems for buildings at OLMM Consulting Engineers and Degenkolb Engineers.
@@ -66,11 +69,11 @@ Investigation and evaluation. Significant alteration to existing structure. Stab
 Leader of OLMM structural team, partnered with MKA team.
 
 Westbrook Apartments - Hunter's Point, SF        
-Existing site with 37 apartment buildings, 226 units of affordable housing, over 250k sqft. Probable maximum loss evaluation. Unit and site renovations.
+Existing site with 37 apartment buildings, 226 units of affordable housing, over 250k sqft. Probable Maximum Loss evaluation. Unit and site renovations.
 Sole structural engineer for the project.
 
 Natalie Gubb Commons - SF
-Two eight-story and one four-story buildings. 120 units of affordable housing. Utilizes novel steel structural system maximizing prefabrication and minimizing foundation costs.
+One four-story and two eight-story buildings. 120 units of affordable housing. Utilizes novel steel structural system maximizing prefabrication and minimizing foundation costs.
 Leader of structural team in final phase of design and through construction.
 
 Solaire Apartments / Beale Street Affordable Housing - SF
