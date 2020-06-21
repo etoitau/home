@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Happy Father's Day</title>
+        <link href='https://fonts.googleapis.com/css?family=Sriracha|Roboto' rel='stylesheet'>
+        <style>
+            body {
+                background-color: #588c7e;
+                font-family: "Roboto";
+            }
+            strong {
+                font-family: "Sriracha";
+            }
+            .page-box {
+                padding: 20px;
+                background-color: #f2e394;
+                border-radius: 16px;
+            }
+            #title {
+                font-family: "Sriracha";
+                margin: 10px;
+            }
+            .pic-box {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: flex-start;
+                width: 100%;
+            }
+            img {
+                width: 300px; 
+                margin: 10px;
+                border-radius: 8px;
+            }
+            @media only screen and (max-width: 999px) {
+                img {
+                    width: 80vw;
+                }
+            }
+            .text-box {
+                margin: 10px;
+            }
+            
+        </style>
+        <script type="text/javascript">
+            
+            function over() {
+                document.getElementById("gf").innerHTML = "Grandfather's";
+//                t.textContent = "Grandfather's";
+            }
+            function off() {
+                document.getElementById("gf").innerHTML = "Father's";
+//                let t = document.getElementById("gf")
+//                t.textContent = "Father's";
+            }
+        </script>
+    </head>
+    <body>
+        <div class="page-box">
+            <div class="title-box">
+                <h1 id="title">Happy <span id="gf">Father's</span> Day!</h1>
+            </div>
+            <div class="pic-box">
+                <img class="pic" src=static/s-l.jpg>
+                <img class="pic" src=static/k-s.jpg>
+                <img id="gkids" class="pic" src=static/a-m.jpg onmouseover="over()" onmouseout="off()">
+            </div>
+            <div class="text-box">
+                <strong>Hey kids, what do you want to say to Granddad?</strong><br>
+                A: <a href=static/arthur.m4a>"Happy Father's Day"</a><br>
+                M: <a href=static/matilda.m4a>"I love you!"</a>
+            </div>
+        </div>
+    </body>
+</html>
